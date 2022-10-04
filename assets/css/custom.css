@@ -26,6 +26,10 @@ body {
     background-color: #fff;
 }
 
+.tab-contentd {
+  background-color: black;
+}
+
 .title {
     font-weight: bold;
 }
