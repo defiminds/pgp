@@ -5,6 +5,10 @@
 }
 /* Definição das cores */
 body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
   /* cores de texto */
   --text-white: #ffffff;
   --text-dark: #142136;
@@ -18,6 +22,10 @@ body {
   font-family: "Inter", sans-serif;
   line-height: 1.7;
   background-color: var(--bg-grey-light);
+}
+.dark-mode {
+  background-color: black;
+  color: white;
 }
 .dark {
   --text-white: #e6e6e6;
