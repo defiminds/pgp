@@ -6,8 +6,8 @@
 /* Definição das cores */
 body {
   padding: 25px;
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   font-size: 25px;
   /* cores de texto */
   --text-white: #ffffff;
@@ -24,8 +24,8 @@ body {
   background-color: var(--bg-grey-light);
 }
 .dark-mode {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 .dark {
   --text-white: #e6e6e6;
